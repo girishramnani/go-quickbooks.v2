@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/jinmatt/go-quickbooks.v2"
+	"github.com/girishramnani/go-quickbooks.v2"
 	"github.com/tylerb/is"
 )
 

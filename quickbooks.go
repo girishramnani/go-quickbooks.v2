@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/jinmatt/go-quickbooks.v2/sdk"
-	"github.com/jinmatt/go-quickbooks.v2/sdk/consts"
+	"github.com/girishramnani/go-quickbooks.v2/sdk"
+	"github.com/girishramnani/go-quickbooks.v2/sdk/consts"
 )
 
 // Quickbooks client type
